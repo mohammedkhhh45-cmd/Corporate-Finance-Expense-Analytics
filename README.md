@@ -35,6 +35,7 @@ This repository contains an end-to-end **Corporate Financial Analytics** project
 4. **Vendor & Project Cost Control:** Tracking major suppliers (Vendors A–D) and cost efficiency per strategic initiative (*Tech Revamp*, *Innovation Lab*).
 
 ---
+<img width="1325" height="733" alt="image" src="https://github.com/user-attachments/assets/67834c5a-877d-4f8b-b320-ea523758f6c6" />
 
 ## 📂 Repository Structure
 ```text
